@@ -1,0 +1,15 @@
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.csproj.AssemblyReference.cache
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.GeneratedMSBuildEditorConfig.editorconfig
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.AssemblyInfoInputs.cache
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.AssemblyInfo.cs
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.csproj.CoreCompileInputs.cache
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\bin\Debug\net6.0\LocalVariables236.exe
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\bin\Debug\net6.0\LocalVariables236.deps.json
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\bin\Debug\net6.0\LocalVariables236.runtimeconfig.json
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\bin\Debug\net6.0\LocalVariables236.dll
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\bin\Debug\net6.0\LocalVariables236.pdb
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.dll
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\refint\LocalVariables236.dll
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.pdb
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\LocalVariables236.genruntimeconfig.cache
+C:\New Git 236\LocalVariables236\LocalVariables236\LocalVariables236\obj\Debug\net6.0\ref\LocalVariables236.dll
